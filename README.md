@@ -1,2 +1,2 @@
 # MediaLibrary
-Project experimenting with back-end PHP, databases, and SQL. 
+Project experimenting with various back-end technologies: PHP, databases, and SQL. 
